@@ -547,6 +547,12 @@ export default function App() {
               </div>
             </div>
           </div>  
+      <iframe
+    src="https://www.chatbase.co/chatbot-iframe/ELCQ8dpPerBZpSrEix247"
+    width="100%"
+    style="height: 100%; min-height: 700px"
+    frameborder="0">
+ </iframe>
         )}
       </main>
 
